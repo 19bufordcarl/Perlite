@@ -1,7 +1,3 @@
 {
-  "theme": "obsidian",
-  "translucency": false,
-  "baseFontSize": 24,
-  "accentColor": "",
-  "cssTheme": "Clair de Lune"
+  "accentColor": ""
 }
