@@ -1,6 +1,4 @@
-# Carl's RPG
-The repo for the RPG that is my obsidian vault.
+# Myth and Shadow
 
-Projects
-- [The CDB TTRPG](TTRPGs/Myth%20&%20Shadow/Foreword/Introduction.md)
-- 
+New players go here
+	[[Myth & Shadow/Character Creation/Character Creation Walkthrough|Character Creation Walkthrough]]
