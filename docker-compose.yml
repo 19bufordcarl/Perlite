@@ -6,7 +6,7 @@ services:
     container_name: perlite
     restart: unless-stopped
     environment:
-      - NOTES_PATH=Demo
+      - NOTES_PATH=MythnShadow
       - HIDE_FOLDERS=docs,private,trash
       - LINE_BREAKS=true
       - ABSOLUTE_PATHES=false
@@ -18,7 +18,7 @@ services:
       - FONT_SIZE=15
       - HTML_SAFE_MODE=true
       - TEMP_PATH=/tmp
-      - SITE_TITLE=Demo
+      - SITE_TITLE=Myth and Shadow
       - SITE_TYPE=article
       - SITE_URL=
       - SITE_IMAGE=
@@ -29,7 +29,7 @@ services:
       - SITE_HOMEPAGE=
       - SITE_GITHUB=
     volumes:
-      - ./perlite/Demo:/var/www/perlite/Demo:ro
+      - ./perlite/MythnShadow:/var/www/perlite/MythnShadow:ro
 
   web:
     build:
